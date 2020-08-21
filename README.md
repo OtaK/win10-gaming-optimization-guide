@@ -21,6 +21,7 @@ Several areas of focus:
 
 * [MSI Util v2](http://www.mediafire.com/file/2kkkvko7e75opce/MSI_util_v2.zip): Allows to toggle [MSI mode](https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/) and change interrupt priorities
 * [TCP Optimizer](https://www.speedguide.net/downloads.php): All-in-one tool to fix TCP/IP behavior on Windows. It's possible to do it via `regedit` but much longer.
+* [O&O ShutUp10](https://www.oo-software.com/en/shutup10): Tool to remove all the windows bloat
 * The rest is already included in Windows :)
 
 ## Summary
