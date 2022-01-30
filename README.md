@@ -30,3 +30,7 @@ Several areas of focus:
 * Part 2: Taking care of drivers and devices
 * Part 3: Optimizing your network
 * Part 4: Getting rid of services you don't need
+
+## Other
+
+* [Audio](Audio.md)
